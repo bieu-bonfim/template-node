@@ -1,2 +1,1 @@
-# template-node
-Template para projetos node
+# Template para futuros projetos do zero
